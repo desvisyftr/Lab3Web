@@ -26,5 +26,5 @@ dan yang terakhir, mengatur margin, padding dan menggabungkan sel data. Mengatur
 Pertama, Buatlah file dengan nama lab3_form.html lalu masukkan kode untuk membuat tabel sebagai berikut:
 ![gambar7](screenshot/ss7.png)
 
-dan yang terakhir, menambahkan styke pada form agar form jadi terlhiat lebih menarik dengan menggunakan CSS sebagai berikut:
+dan yang terakhir, menambahkan style pada form agar form jadi terlhiat lebih menarik dengan menggunakan CSS sebagai berikut:
 ![gambar8](screenshot/ss8.png)
