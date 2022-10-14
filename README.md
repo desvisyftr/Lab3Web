@@ -4,13 +4,27 @@
 
 ### Membuat Ordered List, Unordered List, dan Description List
 Pertama, buatlah dokumen html dengan nama file lab3_list.html dengan tampilan seperti ini :
-![img]screenshot/ss1
+![gambar1](screenshot/ss1)
 
 Kedua, tambahkan lah kode untuk membuat ordered list seperti ini:
-![img]screenshot/ss2
+![gambar2](screenshot/ss2)
 
 Ketiga, tambahkan lagi kode untuk membuat unordered list, setelah deklarasi ordered list dengan tampilan seperti ini:
-![img]screenshot/ss3
+![gambar3](screenshot/ss3)
 
 dan yang terakhir, buat lahkode untuk description list setelah deklarasi unordered list. Begini tampilannya:
-![img]screenshot/ss4
+![gambar4](screenshot/ss4)
+
+### Membuat Tabel
+Pertama, buat lah file dengan nama lab3_tabel.html lalu tambahkan lah kode untuk membuat tabel dengan tampilan berikut:
+![gambar5](screenshot/ss5)
+
+dan yang terakhir, mengatur margin, padding dan menggabungkan sel data. Mengatur margin dan padding menggunakan atribut cellpadding dan cellspasing pada tag tabel. Sedangkan untunk menggabungkan sel data menggunakan atribut rowspan(vertikal) dan colspan(horizontal). Disini saya memakan atribut rowspan yang berguna untuk menggabungkan barisan secara vertikal. Beginlah tampilannya:
+![gambar6](screenshot/ss6)
+
+### Membuat lab3_form.html
+Pertama, Buatlah file dengan nama lab3_form.html lalu masukkan kode untuk membuat tabel sebagai berikut:
+![gambar7](screenshot/ss7)
+
+dan yang terakhir, menambahkan styke pada form agar form jadi terlhiat lebih menarik dengan menggunakan CSS sebagai berikut:
+![gambar8](screenshot/ss80
